@@ -1,2 +1,4 @@
 import turtle
-turtle.go(5)
+import time
+turtle.write(5)
+time.sleep(10)
